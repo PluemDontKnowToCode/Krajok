@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 723ca2ff107f28446b220fc7e60bca85
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inferrrrrrr_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 336
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d6a9ed67770445b03b11c241d785a
+      internalID: 632170258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9b1b81cda0f941acdc99f6d8dc2bc
+      internalID: -49139614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferrrrrrr_30
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 320
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204bafeb863d124ab6be29c0671986f
+      internalID: 906314082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inferrrrrrr_54
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 256
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a70b058f3c9e64091f7699d01671f7
+      internalID: -232425976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Box2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a46848b2acfe43b5fec17b5524f4f
+      internalID: 2124579901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Box1: -49139614
+      Box2: 2124579901
+      Inferrrrrrr_0: -1882591237
+      Inferrrrrrr_1: 632170258
+      Inferrrrrrr_10: 1535214937
+      Inferrrrrrr_11: 1853510206
+      Inferrrrrrr_12: -1498011293
+      Inferrrrrrr_13: -858559486
+      Inferrrrrrr_14: -1107538487
+      Inferrrrrrr_15: -670083361
+      Inferrrrrrr_16: -2043029773
+      Inferrrrrrr_17: 265496567
+      Inferrrrrrr_18: 1436559870
+      Inferrrrrrr_19: 47208553
+      Inferrrrrrr_2: -53666144
+      Inferrrrrrr_20: 1214423201
+      Inferrrrrrr_21: 2124075400
+      Inferrrrrrr_22: -174892666
+      Inferrrrrrr_23: -705614870
+      Inferrrrrrr_24: -148523383
+      Inferrrrrrr_25: -1676139933
+      Inferrrrrrr_26: -385137165
+      Inferrrrrrr_28: 1756625198
+      Inferrrrrrr_29: 1247973023
+      Inferrrrrrr_3: 238119597
+      Inferrrrrrr_30: 906314082
+      Inferrrrrrr_31: -1457235819
+      Inferrrrrrr_32: -100546537
+      Inferrrrrrr_33: 82119406
+      Inferrrrrrr_34: 818699834
+      Inferrrrrrr_35: 1597310322
+      Inferrrrrrr_36: 2142139201
+      Inferrrrrrr_37: -1877582510
+      Inferrrrrrr_38: -137144540
+      Inferrrrrrr_39: -278608167
+      Inferrrrrrr_4: 1309974639
+      Inferrrrrrr_40: -1750214845
+      Inferrrrrrr_41: -1529305486
+      Inferrrrrrr_42: 633566450
+      Inferrrrrrr_43: -931386362
+      Inferrrrrrr_44: -1391815064
+      Inferrrrrrr_45: 60791469
+      Inferrrrrrr_46: -1677468002
+      Inferrrrrrr_47: -2013575882
+      Inferrrrrrr_48: 137286752
+      Inferrrrrrr_49: 1448248041
+      Inferrrrrrr_5: -47395129
+      Inferrrrrrr_50: -1212197228
+      Inferrrrrrr_51: -102187142
+      Inferrrrrrr_52: 1286429552
+      Inferrrrrrr_53: 573025084
+      Inferrrrrrr_54: -232425976
+      Inferrrrrrr_55: -1913722339
+      Inferrrrrrr_56: 1467580244
+      Inferrrrrrr_57: 936121894
+      Inferrrrrrr_58: -1145472357
+      Inferrrrrrr_59: -1527726903
+      Inferrrrrrr_6: 401924320
+      Inferrrrrrr_60: -182801060
+      Inferrrrrrr_61: -50273433
+      Inferrrrrrr_62: 1592428626
+      Inferrrrrrr_7: -542969050
+      Inferrrrrrr_8: 1150255754
+      Inferrrrrrr_9: -1627660444
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
